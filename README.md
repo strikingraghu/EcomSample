@@ -33,6 +33,7 @@ Please feel free to comment for any clarification or suggestion.
 <a href="url"><img src="https://github.com/MukeshKumar009/EcomSample/blob/master/screenshots/Screenshot_2016-11-04-11-20-58-621_com.allandroidprojects.ecomsample.png" align="left" height="380" width="240" ></a>
 
 <a href="url"><img src="https://github.com/MukeshKumar009/EcomSample/blob/master/screenshots/Screenshot_2016-11-04-11-16-39-455_com.allandroidprojects.ecomsample.jpg" align="left" height="380" width="240" ></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fstrikingraghu%2FEcomSample?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstrikingraghu%2FEcomSample.svg?type=shield"/></a>
 
 <a href="url"><img src="https://github.com/MukeshKumar009/EcomSample/blob/master/screenshots/Screenshot_2016-11-04-11-15-57-793_com.allandroidprojects.ecomsample.jpg" align="left" height="380" width="240" ></a>
 
@@ -43,3 +44,7 @@ Please feel free to comment for any clarification or suggestion.
 
 <a href="url"><img src="https://github.com/MukeshKumar009/EcomSample/blob/master/screenshots/Screenshot_2016-11-04-11-18-40-835_com.allandroidprojects.ecomsample.png" align="left" height="380" width="240" ></a>
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fstrikingraghu%2FEcomSample.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fstrikingraghu%2FEcomSample?ref=badge_large)
